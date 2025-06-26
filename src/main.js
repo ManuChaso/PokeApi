@@ -13,4 +13,4 @@ app.appendChild(mainContainer)
 
 router();
 
-fetchApi('pokemon', 'offset=0&limit=35')
+fetchApi('pokemon/pikachu')
